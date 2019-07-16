@@ -83,7 +83,7 @@ Total Costs - Total estimated costs for the discharge.
 Utilizing this dataset, I was able to calcluate estimated operating margins for each encounter and I distilled the dataset to relevant features that may affect cost as it relates to the hospital admission. 
 I then tested Logistic Regression, Decision Tree, Random Forest, Gradient Boost, Adaboost, and XGBoost to find the best model to predict these features. I then used a waterfall graph to explore how the features interact to predict hospital admission/discharge profitability.
 
-<a href="https://github.com/lpilossoph/Final_Project3/blob/master/Final_Project3.ipynb">Link to Notebook</a>
+<a href="https://github.com/lpilossoph/Hospital-Admission-Analysis/blob/master/Final_Project3.ipynb">Link to Notebook</a>
 
 # Use Cases
 
